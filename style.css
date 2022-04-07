@@ -200,7 +200,7 @@ p {
 
 /* Hero Section */
 #hero {
-	background-image: url(./img/hero-bg.png);
+	background-image: url(./img/mishra.jpeg);
 	background-size: cover;
 	background-position: top center;
 	position: relative;
@@ -273,7 +273,7 @@ p {
 	padding: 100px 0;
 }
 #services .service-top {
-	max-width: 500px;
+	max-width: 700px;
 	margin: 0 auto;
 }
 #services .service-bottom {
@@ -291,7 +291,7 @@ p {
 	flex-direction: column;
 	padding: 30px;
 	border-radius: 10px;
-	background-image: url(./img/img-1.png);
+	/* background-image: url(./img/mishra.jpeg); */
 	background-size: cover;
 	margin: 10px 5%;
 	position: relative;
